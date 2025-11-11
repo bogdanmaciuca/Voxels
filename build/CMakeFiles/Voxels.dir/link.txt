@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/Voxels.dir/src/main.cpp.o -o Voxels   -L/usr/lib/gcc/x86_64-linux-gnu/13  extern/glw/libglw.a extern/glw/extern/glfw/src/libglfw3.a /usr/lib/x86_64-linux-gnu/librt.a -lm -ldl /usr/lib/x86_64-linux-gnu/libOpenGL.so /usr/lib/x86_64-linux-gnu/libGLX.so /usr/lib/x86_64-linux-gnu/libGLU.so 

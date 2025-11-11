@@ -1,0 +1,260 @@
+[
+{
+  "directory": "/mnt/projects/c/voxels/build",
+  "command": "/usr/bin/c++  -I/mnt/projects/c/voxels/extern/glw/include -I/mnt/projects/c/voxels/extern/glw/extern/glad -I/mnt/projects/c/voxels/extern/glw/extern/stb -I/mnt/projects/c/voxels/extern/glw/extern/glfw/include -std=gnu++23 -o CMakeFiles/Voxels.dir/src/main.cpp.o -c /mnt/projects/c/voxels/src/main.cpp",
+  "file": "/mnt/projects/c/voxels/src/main.cpp",
+  "output": "CMakeFiles/Voxels.dir/src/main.cpp.o"
+},
+{
+  "directory": "/mnt/projects/c/voxels/build/extern/glw",
+  "command": "/usr/bin/c++  -I/mnt/projects/c/voxels/extern/glw/include -I/mnt/projects/c/voxels/extern/glw/extern/glad -I/mnt/projects/c/voxels/extern/glw/extern/stb -I/mnt/projects/c/voxels/extern/glw/extern/glfw/include -std=gnu++23 -o CMakeFiles/glw.dir/src/debug.cpp.o -c /mnt/projects/c/voxels/extern/glw/src/debug.cpp",
+  "file": "/mnt/projects/c/voxels/extern/glw/src/debug.cpp",
+  "output": "extern/glw/CMakeFiles/glw.dir/src/debug.cpp.o"
+},
+{
+  "directory": "/mnt/projects/c/voxels/build/extern/glw",
+  "command": "/usr/bin/c++  -I/mnt/projects/c/voxels/extern/glw/include -I/mnt/projects/c/voxels/extern/glw/extern/glad -I/mnt/projects/c/voxels/extern/glw/extern/stb -I/mnt/projects/c/voxels/extern/glw/extern/glfw/include -std=gnu++23 -o CMakeFiles/glw.dir/src/glw.cpp.o -c /mnt/projects/c/voxels/extern/glw/src/glw.cpp",
+  "file": "/mnt/projects/c/voxels/extern/glw/src/glw.cpp",
+  "output": "extern/glw/CMakeFiles/glw.dir/src/glw.cpp.o"
+},
+{
+  "directory": "/mnt/projects/c/voxels/build/extern/glw",
+  "command": "/usr/bin/c++  -I/mnt/projects/c/voxels/extern/glw/include -I/mnt/projects/c/voxels/extern/glw/extern/glad -I/mnt/projects/c/voxels/extern/glw/extern/stb -I/mnt/projects/c/voxels/extern/glw/extern/glfw/include -std=gnu++23 -o CMakeFiles/glw.dir/src/input.cpp.o -c /mnt/projects/c/voxels/extern/glw/src/input.cpp",
+  "file": "/mnt/projects/c/voxels/extern/glw/src/input.cpp",
+  "output": "extern/glw/CMakeFiles/glw.dir/src/input.cpp.o"
+},
+{
+  "directory": "/mnt/projects/c/voxels/build/extern/glw",
+  "command": "/usr/bin/c++  -I/mnt/projects/c/voxels/extern/glw/include -I/mnt/projects/c/voxels/extern/glw/extern/glad -I/mnt/projects/c/voxels/extern/glw/extern/stb -I/mnt/projects/c/voxels/extern/glw/extern/glfw/include -std=gnu++23 -o CMakeFiles/glw.dir/src/math.cpp.o -c /mnt/projects/c/voxels/extern/glw/src/math.cpp",
+  "file": "/mnt/projects/c/voxels/extern/glw/src/math.cpp",
+  "output": "extern/glw/CMakeFiles/glw.dir/src/math.cpp.o"
+},
+{
+  "directory": "/mnt/projects/c/voxels/build/extern/glw",
+  "command": "/usr/bin/c++  -I/mnt/projects/c/voxels/extern/glw/include -I/mnt/projects/c/voxels/extern/glw/extern/glad -I/mnt/projects/c/voxels/extern/glw/extern/stb -I/mnt/projects/c/voxels/extern/glw/extern/glfw/include -std=gnu++23 -o CMakeFiles/glw.dir/src/shader.cpp.o -c /mnt/projects/c/voxels/extern/glw/src/shader.cpp",
+  "file": "/mnt/projects/c/voxels/extern/glw/src/shader.cpp",
+  "output": "extern/glw/CMakeFiles/glw.dir/src/shader.cpp.o"
+},
+{
+  "directory": "/mnt/projects/c/voxels/build/extern/glw",
+  "command": "/usr/bin/c++  -I/mnt/projects/c/voxels/extern/glw/include -I/mnt/projects/c/voxels/extern/glw/extern/glad -I/mnt/projects/c/voxels/extern/glw/extern/stb -I/mnt/projects/c/voxels/extern/glw/extern/glfw/include -std=gnu++23 -o CMakeFiles/glw.dir/src/ssbo.cpp.o -c /mnt/projects/c/voxels/extern/glw/src/ssbo.cpp",
+  "file": "/mnt/projects/c/voxels/extern/glw/src/ssbo.cpp",
+  "output": "extern/glw/CMakeFiles/glw.dir/src/ssbo.cpp.o"
+},
+{
+  "directory": "/mnt/projects/c/voxels/build/extern/glw",
+  "command": "/usr/bin/c++  -I/mnt/projects/c/voxels/extern/glw/include -I/mnt/projects/c/voxels/extern/glw/extern/glad -I/mnt/projects/c/voxels/extern/glw/extern/stb -I/mnt/projects/c/voxels/extern/glw/extern/glfw/include -std=gnu++23 -o CMakeFiles/glw.dir/src/texture.cpp.o -c /mnt/projects/c/voxels/extern/glw/src/texture.cpp",
+  "file": "/mnt/projects/c/voxels/extern/glw/src/texture.cpp",
+  "output": "extern/glw/CMakeFiles/glw.dir/src/texture.cpp.o"
+},
+{
+  "directory": "/mnt/projects/c/voxels/build/extern/glw",
+  "command": "/usr/bin/c++  -I/mnt/projects/c/voxels/extern/glw/include -I/mnt/projects/c/voxels/extern/glw/extern/glad -I/mnt/projects/c/voxels/extern/glw/extern/stb -I/mnt/projects/c/voxels/extern/glw/extern/glfw/include -std=gnu++23 -o CMakeFiles/glw.dir/src/vao.cpp.o -c /mnt/projects/c/voxels/extern/glw/src/vao.cpp",
+  "file": "/mnt/projects/c/voxels/extern/glw/src/vao.cpp",
+  "output": "extern/glw/CMakeFiles/glw.dir/src/vao.cpp.o"
+},
+{
+  "directory": "/mnt/projects/c/voxels/build/extern/glw",
+  "command": "/usr/bin/cc  -I/mnt/projects/c/voxels/extern/glw/include -I/mnt/projects/c/voxels/extern/glw/extern/glad -I/mnt/projects/c/voxels/extern/glw/extern/stb -I/mnt/projects/c/voxels/extern/glw/extern/glfw/include  -o CMakeFiles/glw.dir/extern/glad/glad.c.o -c /mnt/projects/c/voxels/extern/glw/extern/glad/glad.c",
+  "file": "/mnt/projects/c/voxels/extern/glw/extern/glad/glad.c",
+  "output": "extern/glw/CMakeFiles/glw.dir/extern/glad/glad.c.o"
+},
+{
+  "directory": "/mnt/projects/c/voxels/build/extern/glw",
+  "command": "/usr/bin/cc  -I/mnt/projects/c/voxels/extern/glw/include -I/mnt/projects/c/voxels/extern/glw/extern/glad -I/mnt/projects/c/voxels/extern/glw/extern/stb -I/mnt/projects/c/voxels/extern/glw/extern/glfw/include  -o CMakeFiles/glw.dir/extern/stb/stb_image.c.o -c /mnt/projects/c/voxels/extern/glw/extern/stb/stb_image.c",
+  "file": "/mnt/projects/c/voxels/extern/glw/extern/stb/stb_image.c",
+  "output": "extern/glw/CMakeFiles/glw.dir/extern/stb/stb_image.c.o"
+},
+{
+  "directory": "/mnt/projects/c/voxels/build/extern/glw/extern/glfw/src",
+  "command": "/usr/bin/cc -DHAVE_MEMFD_CREATE -D_DEFAULT_SOURCE -D_GLFW_WAYLAND -D_GLFW_X11 -I/mnt/projects/c/voxels/extern/glw/extern/glfw/include -I/mnt/projects/c/voxels/extern/glw/extern/glfw/src -I/mnt/projects/c/voxels/build/extern/glw/extern/glfw/src -std=c99 -fPIC -Wall -o CMakeFiles/glfw.dir/context.c.o -c /mnt/projects/c/voxels/extern/glw/extern/glfw/src/context.c",
+  "file": "/mnt/projects/c/voxels/extern/glw/extern/glfw/src/context.c",
+  "output": "extern/glw/extern/glfw/src/CMakeFiles/glfw.dir/context.c.o"
+},
+{
+  "directory": "/mnt/projects/c/voxels/build/extern/glw/extern/glfw/src",
+  "command": "/usr/bin/cc -DHAVE_MEMFD_CREATE -D_DEFAULT_SOURCE -D_GLFW_WAYLAND -D_GLFW_X11 -I/mnt/projects/c/voxels/extern/glw/extern/glfw/include -I/mnt/projects/c/voxels/extern/glw/extern/glfw/src -I/mnt/projects/c/voxels/build/extern/glw/extern/glfw/src -std=c99 -fPIC -Wall -o CMakeFiles/glfw.dir/init.c.o -c /mnt/projects/c/voxels/extern/glw/extern/glfw/src/init.c",
+  "file": "/mnt/projects/c/voxels/extern/glw/extern/glfw/src/init.c",
+  "output": "extern/glw/extern/glfw/src/CMakeFiles/glfw.dir/init.c.o"
+},
+{
+  "directory": "/mnt/projects/c/voxels/build/extern/glw/extern/glfw/src",
+  "command": "/usr/bin/cc -DHAVE_MEMFD_CREATE -D_DEFAULT_SOURCE -D_GLFW_WAYLAND -D_GLFW_X11 -I/mnt/projects/c/voxels/extern/glw/extern/glfw/include -I/mnt/projects/c/voxels/extern/glw/extern/glfw/src -I/mnt/projects/c/voxels/build/extern/glw/extern/glfw/src -std=c99 -fPIC -Wall -o CMakeFiles/glfw.dir/input.c.o -c /mnt/projects/c/voxels/extern/glw/extern/glfw/src/input.c",
+  "file": "/mnt/projects/c/voxels/extern/glw/extern/glfw/src/input.c",
+  "output": "extern/glw/extern/glfw/src/CMakeFiles/glfw.dir/input.c.o"
+},
+{
+  "directory": "/mnt/projects/c/voxels/build/extern/glw/extern/glfw/src",
+  "command": "/usr/bin/cc -DHAVE_MEMFD_CREATE -D_DEFAULT_SOURCE -D_GLFW_WAYLAND -D_GLFW_X11 -I/mnt/projects/c/voxels/extern/glw/extern/glfw/include -I/mnt/projects/c/voxels/extern/glw/extern/glfw/src -I/mnt/projects/c/voxels/build/extern/glw/extern/glfw/src -std=c99 -fPIC -Wall -o CMakeFiles/glfw.dir/monitor.c.o -c /mnt/projects/c/voxels/extern/glw/extern/glfw/src/monitor.c",
+  "file": "/mnt/projects/c/voxels/extern/glw/extern/glfw/src/monitor.c",
+  "output": "extern/glw/extern/glfw/src/CMakeFiles/glfw.dir/monitor.c.o"
+},
+{
+  "directory": "/mnt/projects/c/voxels/build/extern/glw/extern/glfw/src",
+  "command": "/usr/bin/cc -DHAVE_MEMFD_CREATE -D_DEFAULT_SOURCE -D_GLFW_WAYLAND -D_GLFW_X11 -I/mnt/projects/c/voxels/extern/glw/extern/glfw/include -I/mnt/projects/c/voxels/extern/glw/extern/glfw/src -I/mnt/projects/c/voxels/build/extern/glw/extern/glfw/src -std=c99 -fPIC -Wall -o CMakeFiles/glfw.dir/platform.c.o -c /mnt/projects/c/voxels/extern/glw/extern/glfw/src/platform.c",
+  "file": "/mnt/projects/c/voxels/extern/glw/extern/glfw/src/platform.c",
+  "output": "extern/glw/extern/glfw/src/CMakeFiles/glfw.dir/platform.c.o"
+},
+{
+  "directory": "/mnt/projects/c/voxels/build/extern/glw/extern/glfw/src",
+  "command": "/usr/bin/cc -DHAVE_MEMFD_CREATE -D_DEFAULT_SOURCE -D_GLFW_WAYLAND -D_GLFW_X11 -I/mnt/projects/c/voxels/extern/glw/extern/glfw/include -I/mnt/projects/c/voxels/extern/glw/extern/glfw/src -I/mnt/projects/c/voxels/build/extern/glw/extern/glfw/src -std=c99 -fPIC -Wall -o CMakeFiles/glfw.dir/vulkan.c.o -c /mnt/projects/c/voxels/extern/glw/extern/glfw/src/vulkan.c",
+  "file": "/mnt/projects/c/voxels/extern/glw/extern/glfw/src/vulkan.c",
+  "output": "extern/glw/extern/glfw/src/CMakeFiles/glfw.dir/vulkan.c.o"
+},
+{
+  "directory": "/mnt/projects/c/voxels/build/extern/glw/extern/glfw/src",
+  "command": "/usr/bin/cc -DHAVE_MEMFD_CREATE -D_DEFAULT_SOURCE -D_GLFW_WAYLAND -D_GLFW_X11 -I/mnt/projects/c/voxels/extern/glw/extern/glfw/include -I/mnt/projects/c/voxels/extern/glw/extern/glfw/src -I/mnt/projects/c/voxels/build/extern/glw/extern/glfw/src -std=c99 -fPIC -Wall -o CMakeFiles/glfw.dir/window.c.o -c /mnt/projects/c/voxels/extern/glw/extern/glfw/src/window.c",
+  "file": "/mnt/projects/c/voxels/extern/glw/extern/glfw/src/window.c",
+  "output": "extern/glw/extern/glfw/src/CMakeFiles/glfw.dir/window.c.o"
+},
+{
+  "directory": "/mnt/projects/c/voxels/build/extern/glw/extern/glfw/src",
+  "command": "/usr/bin/cc -DHAVE_MEMFD_CREATE -D_DEFAULT_SOURCE -D_GLFW_WAYLAND -D_GLFW_X11 -I/mnt/projects/c/voxels/extern/glw/extern/glfw/include -I/mnt/projects/c/voxels/extern/glw/extern/glfw/src -I/mnt/projects/c/voxels/build/extern/glw/extern/glfw/src -std=c99 -fPIC -Wall -o CMakeFiles/glfw.dir/egl_context.c.o -c /mnt/projects/c/voxels/extern/glw/extern/glfw/src/egl_context.c",
+  "file": "/mnt/projects/c/voxels/extern/glw/extern/glfw/src/egl_context.c",
+  "output": "extern/glw/extern/glfw/src/CMakeFiles/glfw.dir/egl_context.c.o"
+},
+{
+  "directory": "/mnt/projects/c/voxels/build/extern/glw/extern/glfw/src",
+  "command": "/usr/bin/cc -DHAVE_MEMFD_CREATE -D_DEFAULT_SOURCE -D_GLFW_WAYLAND -D_GLFW_X11 -I/mnt/projects/c/voxels/extern/glw/extern/glfw/include -I/mnt/projects/c/voxels/extern/glw/extern/glfw/src -I/mnt/projects/c/voxels/build/extern/glw/extern/glfw/src -std=c99 -fPIC -Wall -o CMakeFiles/glfw.dir/osmesa_context.c.o -c /mnt/projects/c/voxels/extern/glw/extern/glfw/src/osmesa_context.c",
+  "file": "/mnt/projects/c/voxels/extern/glw/extern/glfw/src/osmesa_context.c",
+  "output": "extern/glw/extern/glfw/src/CMakeFiles/glfw.dir/osmesa_context.c.o"
+},
+{
+  "directory": "/mnt/projects/c/voxels/build/extern/glw/extern/glfw/src",
+  "command": "/usr/bin/cc -DHAVE_MEMFD_CREATE -D_DEFAULT_SOURCE -D_GLFW_WAYLAND -D_GLFW_X11 -I/mnt/projects/c/voxels/extern/glw/extern/glfw/include -I/mnt/projects/c/voxels/extern/glw/extern/glfw/src -I/mnt/projects/c/voxels/build/extern/glw/extern/glfw/src -std=c99 -fPIC -Wall -o CMakeFiles/glfw.dir/null_init.c.o -c /mnt/projects/c/voxels/extern/glw/extern/glfw/src/null_init.c",
+  "file": "/mnt/projects/c/voxels/extern/glw/extern/glfw/src/null_init.c",
+  "output": "extern/glw/extern/glfw/src/CMakeFiles/glfw.dir/null_init.c.o"
+},
+{
+  "directory": "/mnt/projects/c/voxels/build/extern/glw/extern/glfw/src",
+  "command": "/usr/bin/cc -DHAVE_MEMFD_CREATE -D_DEFAULT_SOURCE -D_GLFW_WAYLAND -D_GLFW_X11 -I/mnt/projects/c/voxels/extern/glw/extern/glfw/include -I/mnt/projects/c/voxels/extern/glw/extern/glfw/src -I/mnt/projects/c/voxels/build/extern/glw/extern/glfw/src -std=c99 -fPIC -Wall -o CMakeFiles/glfw.dir/null_monitor.c.o -c /mnt/projects/c/voxels/extern/glw/extern/glfw/src/null_monitor.c",
+  "file": "/mnt/projects/c/voxels/extern/glw/extern/glfw/src/null_monitor.c",
+  "output": "extern/glw/extern/glfw/src/CMakeFiles/glfw.dir/null_monitor.c.o"
+},
+{
+  "directory": "/mnt/projects/c/voxels/build/extern/glw/extern/glfw/src",
+  "command": "/usr/bin/cc -DHAVE_MEMFD_CREATE -D_DEFAULT_SOURCE -D_GLFW_WAYLAND -D_GLFW_X11 -I/mnt/projects/c/voxels/extern/glw/extern/glfw/include -I/mnt/projects/c/voxels/extern/glw/extern/glfw/src -I/mnt/projects/c/voxels/build/extern/glw/extern/glfw/src -std=c99 -fPIC -Wall -o CMakeFiles/glfw.dir/null_window.c.o -c /mnt/projects/c/voxels/extern/glw/extern/glfw/src/null_window.c",
+  "file": "/mnt/projects/c/voxels/extern/glw/extern/glfw/src/null_window.c",
+  "output": "extern/glw/extern/glfw/src/CMakeFiles/glfw.dir/null_window.c.o"
+},
+{
+  "directory": "/mnt/projects/c/voxels/build/extern/glw/extern/glfw/src",
+  "command": "/usr/bin/cc -DHAVE_MEMFD_CREATE -D_DEFAULT_SOURCE -D_GLFW_WAYLAND -D_GLFW_X11 -I/mnt/projects/c/voxels/extern/glw/extern/glfw/include -I/mnt/projects/c/voxels/extern/glw/extern/glfw/src -I/mnt/projects/c/voxels/build/extern/glw/extern/glfw/src -std=c99 -fPIC -Wall -o CMakeFiles/glfw.dir/null_joystick.c.o -c /mnt/projects/c/voxels/extern/glw/extern/glfw/src/null_joystick.c",
+  "file": "/mnt/projects/c/voxels/extern/glw/extern/glfw/src/null_joystick.c",
+  "output": "extern/glw/extern/glfw/src/CMakeFiles/glfw.dir/null_joystick.c.o"
+},
+{
+  "directory": "/mnt/projects/c/voxels/build/extern/glw/extern/glfw/src",
+  "command": "/usr/bin/cc -DHAVE_MEMFD_CREATE -D_DEFAULT_SOURCE -D_GLFW_WAYLAND -D_GLFW_X11 -I/mnt/projects/c/voxels/extern/glw/extern/glfw/include -I/mnt/projects/c/voxels/extern/glw/extern/glfw/src -I/mnt/projects/c/voxels/build/extern/glw/extern/glfw/src -std=c99 -fPIC -Wall -o CMakeFiles/glfw.dir/posix_module.c.o -c /mnt/projects/c/voxels/extern/glw/extern/glfw/src/posix_module.c",
+  "file": "/mnt/projects/c/voxels/extern/glw/extern/glfw/src/posix_module.c",
+  "output": "extern/glw/extern/glfw/src/CMakeFiles/glfw.dir/posix_module.c.o"
+},
+{
+  "directory": "/mnt/projects/c/voxels/build/extern/glw/extern/glfw/src",
+  "command": "/usr/bin/cc -DHAVE_MEMFD_CREATE -D_DEFAULT_SOURCE -D_GLFW_WAYLAND -D_GLFW_X11 -I/mnt/projects/c/voxels/extern/glw/extern/glfw/include -I/mnt/projects/c/voxels/extern/glw/extern/glfw/src -I/mnt/projects/c/voxels/build/extern/glw/extern/glfw/src -std=c99 -fPIC -Wall -o CMakeFiles/glfw.dir/posix_time.c.o -c /mnt/projects/c/voxels/extern/glw/extern/glfw/src/posix_time.c",
+  "file": "/mnt/projects/c/voxels/extern/glw/extern/glfw/src/posix_time.c",
+  "output": "extern/glw/extern/glfw/src/CMakeFiles/glfw.dir/posix_time.c.o"
+},
+{
+  "directory": "/mnt/projects/c/voxels/build/extern/glw/extern/glfw/src",
+  "command": "/usr/bin/cc -DHAVE_MEMFD_CREATE -D_DEFAULT_SOURCE -D_GLFW_WAYLAND -D_GLFW_X11 -I/mnt/projects/c/voxels/extern/glw/extern/glfw/include -I/mnt/projects/c/voxels/extern/glw/extern/glfw/src -I/mnt/projects/c/voxels/build/extern/glw/extern/glfw/src -std=c99 -fPIC -Wall -o CMakeFiles/glfw.dir/posix_thread.c.o -c /mnt/projects/c/voxels/extern/glw/extern/glfw/src/posix_thread.c",
+  "file": "/mnt/projects/c/voxels/extern/glw/extern/glfw/src/posix_thread.c",
+  "output": "extern/glw/extern/glfw/src/CMakeFiles/glfw.dir/posix_thread.c.o"
+},
+{
+  "directory": "/mnt/projects/c/voxels/build/extern/glw/extern/glfw/src",
+  "command": "/usr/bin/cc -DHAVE_MEMFD_CREATE -D_DEFAULT_SOURCE -D_GLFW_WAYLAND -D_GLFW_X11 -I/mnt/projects/c/voxels/extern/glw/extern/glfw/include -I/mnt/projects/c/voxels/extern/glw/extern/glfw/src -I/mnt/projects/c/voxels/build/extern/glw/extern/glfw/src -std=c99 -fPIC -Wall -o CMakeFiles/glfw.dir/x11_init.c.o -c /mnt/projects/c/voxels/extern/glw/extern/glfw/src/x11_init.c",
+  "file": "/mnt/projects/c/voxels/extern/glw/extern/glfw/src/x11_init.c",
+  "output": "extern/glw/extern/glfw/src/CMakeFiles/glfw.dir/x11_init.c.o"
+},
+{
+  "directory": "/mnt/projects/c/voxels/build/extern/glw/extern/glfw/src",
+  "command": "/usr/bin/cc -DHAVE_MEMFD_CREATE -D_DEFAULT_SOURCE -D_GLFW_WAYLAND -D_GLFW_X11 -I/mnt/projects/c/voxels/extern/glw/extern/glfw/include -I/mnt/projects/c/voxels/extern/glw/extern/glfw/src -I/mnt/projects/c/voxels/build/extern/glw/extern/glfw/src -std=c99 -fPIC -Wall -o CMakeFiles/glfw.dir/x11_monitor.c.o -c /mnt/projects/c/voxels/extern/glw/extern/glfw/src/x11_monitor.c",
+  "file": "/mnt/projects/c/voxels/extern/glw/extern/glfw/src/x11_monitor.c",
+  "output": "extern/glw/extern/glfw/src/CMakeFiles/glfw.dir/x11_monitor.c.o"
+},
+{
+  "directory": "/mnt/projects/c/voxels/build/extern/glw/extern/glfw/src",
+  "command": "/usr/bin/cc -DHAVE_MEMFD_CREATE -D_DEFAULT_SOURCE -D_GLFW_WAYLAND -D_GLFW_X11 -I/mnt/projects/c/voxels/extern/glw/extern/glfw/include -I/mnt/projects/c/voxels/extern/glw/extern/glfw/src -I/mnt/projects/c/voxels/build/extern/glw/extern/glfw/src -std=c99 -fPIC -Wall -o CMakeFiles/glfw.dir/x11_window.c.o -c /mnt/projects/c/voxels/extern/glw/extern/glfw/src/x11_window.c",
+  "file": "/mnt/projects/c/voxels/extern/glw/extern/glfw/src/x11_window.c",
+  "output": "extern/glw/extern/glfw/src/CMakeFiles/glfw.dir/x11_window.c.o"
+},
+{
+  "directory": "/mnt/projects/c/voxels/build/extern/glw/extern/glfw/src",
+  "command": "/usr/bin/cc -DHAVE_MEMFD_CREATE -D_DEFAULT_SOURCE -D_GLFW_WAYLAND -D_GLFW_X11 -I/mnt/projects/c/voxels/extern/glw/extern/glfw/include -I/mnt/projects/c/voxels/extern/glw/extern/glfw/src -I/mnt/projects/c/voxels/build/extern/glw/extern/glfw/src -std=c99 -fPIC -Wall -o CMakeFiles/glfw.dir/xkb_unicode.c.o -c /mnt/projects/c/voxels/extern/glw/extern/glfw/src/xkb_unicode.c",
+  "file": "/mnt/projects/c/voxels/extern/glw/extern/glfw/src/xkb_unicode.c",
+  "output": "extern/glw/extern/glfw/src/CMakeFiles/glfw.dir/xkb_unicode.c.o"
+},
+{
+  "directory": "/mnt/projects/c/voxels/build/extern/glw/extern/glfw/src",
+  "command": "/usr/bin/cc -DHAVE_MEMFD_CREATE -D_DEFAULT_SOURCE -D_GLFW_WAYLAND -D_GLFW_X11 -I/mnt/projects/c/voxels/extern/glw/extern/glfw/include -I/mnt/projects/c/voxels/extern/glw/extern/glfw/src -I/mnt/projects/c/voxels/build/extern/glw/extern/glfw/src -std=c99 -fPIC -Wall -o CMakeFiles/glfw.dir/glx_context.c.o -c /mnt/projects/c/voxels/extern/glw/extern/glfw/src/glx_context.c",
+  "file": "/mnt/projects/c/voxels/extern/glw/extern/glfw/src/glx_context.c",
+  "output": "extern/glw/extern/glfw/src/CMakeFiles/glfw.dir/glx_context.c.o"
+},
+{
+  "directory": "/mnt/projects/c/voxels/build/extern/glw/extern/glfw/src",
+  "command": "/usr/bin/cc -DHAVE_MEMFD_CREATE -D_DEFAULT_SOURCE -D_GLFW_WAYLAND -D_GLFW_X11 -I/mnt/projects/c/voxels/extern/glw/extern/glfw/include -I/mnt/projects/c/voxels/extern/glw/extern/glfw/src -I/mnt/projects/c/voxels/build/extern/glw/extern/glfw/src -std=c99 -fPIC -Wall -o CMakeFiles/glfw.dir/wl_init.c.o -c /mnt/projects/c/voxels/extern/glw/extern/glfw/src/wl_init.c",
+  "file": "/mnt/projects/c/voxels/extern/glw/extern/glfw/src/wl_init.c",
+  "output": "extern/glw/extern/glfw/src/CMakeFiles/glfw.dir/wl_init.c.o"
+},
+{
+  "directory": "/mnt/projects/c/voxels/build/extern/glw/extern/glfw/src",
+  "command": "/usr/bin/cc -DHAVE_MEMFD_CREATE -D_DEFAULT_SOURCE -D_GLFW_WAYLAND -D_GLFW_X11 -I/mnt/projects/c/voxels/extern/glw/extern/glfw/include -I/mnt/projects/c/voxels/extern/glw/extern/glfw/src -I/mnt/projects/c/voxels/build/extern/glw/extern/glfw/src -std=c99 -fPIC -Wall -o CMakeFiles/glfw.dir/wl_monitor.c.o -c /mnt/projects/c/voxels/extern/glw/extern/glfw/src/wl_monitor.c",
+  "file": "/mnt/projects/c/voxels/extern/glw/extern/glfw/src/wl_monitor.c",
+  "output": "extern/glw/extern/glfw/src/CMakeFiles/glfw.dir/wl_monitor.c.o"
+},
+{
+  "directory": "/mnt/projects/c/voxels/build/extern/glw/extern/glfw/src",
+  "command": "/usr/bin/cc -DHAVE_MEMFD_CREATE -D_DEFAULT_SOURCE -D_GLFW_WAYLAND -D_GLFW_X11 -I/mnt/projects/c/voxels/extern/glw/extern/glfw/include -I/mnt/projects/c/voxels/extern/glw/extern/glfw/src -I/mnt/projects/c/voxels/build/extern/glw/extern/glfw/src -std=c99 -fPIC -Wall -o CMakeFiles/glfw.dir/wl_window.c.o -c /mnt/projects/c/voxels/extern/glw/extern/glfw/src/wl_window.c",
+  "file": "/mnt/projects/c/voxels/extern/glw/extern/glfw/src/wl_window.c",
+  "output": "extern/glw/extern/glfw/src/CMakeFiles/glfw.dir/wl_window.c.o"
+},
+{
+  "directory": "/mnt/projects/c/voxels/build/extern/glw/extern/glfw/src",
+  "command": "/usr/bin/cc -DHAVE_MEMFD_CREATE -D_DEFAULT_SOURCE -D_GLFW_WAYLAND -D_GLFW_X11 -I/mnt/projects/c/voxels/extern/glw/extern/glfw/include -I/mnt/projects/c/voxels/extern/glw/extern/glfw/src -I/mnt/projects/c/voxels/build/extern/glw/extern/glfw/src -std=c99 -fPIC -Wall -o CMakeFiles/glfw.dir/linux_joystick.c.o -c /mnt/projects/c/voxels/extern/glw/extern/glfw/src/linux_joystick.c",
+  "file": "/mnt/projects/c/voxels/extern/glw/extern/glfw/src/linux_joystick.c",
+  "output": "extern/glw/extern/glfw/src/CMakeFiles/glfw.dir/linux_joystick.c.o"
+},
+{
+  "directory": "/mnt/projects/c/voxels/build/extern/glw/extern/glfw/src",
+  "command": "/usr/bin/cc -DHAVE_MEMFD_CREATE -D_DEFAULT_SOURCE -D_GLFW_WAYLAND -D_GLFW_X11 -I/mnt/projects/c/voxels/extern/glw/extern/glfw/include -I/mnt/projects/c/voxels/extern/glw/extern/glfw/src -I/mnt/projects/c/voxels/build/extern/glw/extern/glfw/src -std=c99 -fPIC -Wall -o CMakeFiles/glfw.dir/posix_poll.c.o -c /mnt/projects/c/voxels/extern/glw/extern/glfw/src/posix_poll.c",
+  "file": "/mnt/projects/c/voxels/extern/glw/extern/glfw/src/posix_poll.c",
+  "output": "extern/glw/extern/glfw/src/CMakeFiles/glfw.dir/posix_poll.c.o"
+},
+{
+  "directory": "/mnt/projects/c/voxels/build/extern/glw/extern/glm/glm",
+  "command": "/usr/bin/c++  -I/mnt/projects/c/voxels/extern/glw/extern/glm -std=c++17 -o CMakeFiles/glm.dir/detail/glm.cpp.o -c /mnt/projects/c/voxels/extern/glw/extern/glm/glm/detail/glm.cpp",
+  "file": "/mnt/projects/c/voxels/extern/glw/extern/glm/glm/detail/glm.cpp",
+  "output": "extern/glw/extern/glm/glm/CMakeFiles/glm.dir/detail/glm.cpp.o"
+},
+{
+  "directory": "/mnt/projects/c/voxels/build/extern/glw/examples/01_triangle",
+  "command": "/usr/bin/c++  -I/mnt/projects/c/voxels/extern/glw/include -I/mnt/projects/c/voxels/extern/glw/extern/glad -I/mnt/projects/c/voxels/extern/glw/extern/stb -I/mnt/projects/c/voxels/extern/glw/extern/glfw/include -std=gnu++23 -o CMakeFiles/01_triangle.dir/src/main.cpp.o -c /mnt/projects/c/voxels/extern/glw/examples/01_triangle/src/main.cpp",
+  "file": "/mnt/projects/c/voxels/extern/glw/examples/01_triangle/src/main.cpp",
+  "output": "extern/glw/examples/01_triangle/CMakeFiles/01_triangle.dir/src/main.cpp.o"
+},
+{
+  "directory": "/mnt/projects/c/voxels/build/extern/glw/examples/02_texture",
+  "command": "/usr/bin/c++  -I/mnt/projects/c/voxels/extern/glw/include -I/mnt/projects/c/voxels/extern/glw/extern/glad -I/mnt/projects/c/voxels/extern/glw/extern/stb -I/mnt/projects/c/voxels/extern/glw/extern/glfw/include -std=gnu++23 -o CMakeFiles/02_texture.dir/src/main.cpp.o -c /mnt/projects/c/voxels/extern/glw/examples/02_texture/src/main.cpp",
+  "file": "/mnt/projects/c/voxels/extern/glw/examples/02_texture/src/main.cpp",
+  "output": "extern/glw/examples/02_texture/CMakeFiles/02_texture.dir/src/main.cpp.o"
+},
+{
+  "directory": "/mnt/projects/c/voxels/build/extern/glw/examples/03_compute",
+  "command": "/usr/bin/c++  -I/mnt/projects/c/voxels/extern/glw/include -I/mnt/projects/c/voxels/extern/glw/extern/glad -I/mnt/projects/c/voxels/extern/glw/extern/stb -I/mnt/projects/c/voxels/extern/glw/extern/glfw/include -std=gnu++23 -o CMakeFiles/03_compute.dir/src/main.cpp.o -c /mnt/projects/c/voxels/extern/glw/examples/03_compute/src/main.cpp",
+  "file": "/mnt/projects/c/voxels/extern/glw/examples/03_compute/src/main.cpp",
+  "output": "extern/glw/examples/03_compute/CMakeFiles/03_compute.dir/src/main.cpp.o"
+},
+{
+  "directory": "/mnt/projects/c/voxels/build/extern/glw/examples/04_ssbo",
+  "command": "/usr/bin/c++  -I/mnt/projects/c/voxels/extern/glw/include -I/mnt/projects/c/voxels/extern/glw/extern/glad -I/mnt/projects/c/voxels/extern/glw/extern/stb -I/mnt/projects/c/voxels/extern/glw/extern/glfw/include -std=gnu++23 -o CMakeFiles/04_ssbo.dir/src/main.cpp.o -c /mnt/projects/c/voxels/extern/glw/examples/04_ssbo/src/main.cpp",
+  "file": "/mnt/projects/c/voxels/extern/glw/examples/04_ssbo/src/main.cpp",
+  "output": "extern/glw/examples/04_ssbo/CMakeFiles/04_ssbo.dir/src/main.cpp.o"
+},
+{
+  "directory": "/mnt/projects/c/voxels/build/extern/glw/examples/05_input",
+  "command": "/usr/bin/c++  -I/mnt/projects/c/voxels/extern/glw/include -I/mnt/projects/c/voxels/extern/glw/extern/glad -I/mnt/projects/c/voxels/extern/glw/extern/stb -I/mnt/projects/c/voxels/extern/glw/extern/glfw/include -std=gnu++23 -o CMakeFiles/05_input.dir/src/main.cpp.o -c /mnt/projects/c/voxels/extern/glw/examples/05_input/src/main.cpp",
+  "file": "/mnt/projects/c/voxels/extern/glw/examples/05_input/src/main.cpp",
+  "output": "extern/glw/examples/05_input/CMakeFiles/05_input.dir/src/main.cpp.o"
+}
+]

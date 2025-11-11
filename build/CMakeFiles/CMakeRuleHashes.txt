@@ -1,0 +1,21 @@
+# Hashes of file build rules.
+64829e9516c4afcac99b315babea61ac extern/glw/extern/glfw/CMakeFiles/uninstall
+d986f06879faca26c0d39508d883777d extern/glw/extern/glfw/src/CMakeFiles/update_mappings
+b118d0f1da75d3e15de0306aad359d58 extern/glw/extern/glfw/src/fractional-scale-v1-client-protocol-code.h
+afe0ab00fe0e64026703c6dda01fbe8f extern/glw/extern/glfw/src/fractional-scale-v1-client-protocol.h
+d2169ca04d6e880bec1be166916df5b1 extern/glw/extern/glfw/src/idle-inhibit-unstable-v1-client-protocol-code.h
+3b2c184266b3f94d1fc7d82c331b58e1 extern/glw/extern/glfw/src/idle-inhibit-unstable-v1-client-protocol.h
+58a8468d5830dc7438041d265a2eb6be extern/glw/extern/glfw/src/pointer-constraints-unstable-v1-client-protocol-code.h
+68fa572d9bc208e2e86c0ff6b567ae68 extern/glw/extern/glfw/src/pointer-constraints-unstable-v1-client-protocol.h
+b7447c734aac7ed39169d69f3345e045 extern/glw/extern/glfw/src/relative-pointer-unstable-v1-client-protocol-code.h
+65a1c04bee9417871023b550ed32e5b0 extern/glw/extern/glfw/src/relative-pointer-unstable-v1-client-protocol.h
+3e125cb3cdc16d204b35ee8934254bb2 extern/glw/extern/glfw/src/viewporter-client-protocol-code.h
+650413034e7353f365cceeebfae0fab1 extern/glw/extern/glfw/src/viewporter-client-protocol.h
+652e71aaf0e2c879773b6e90d27b39e2 extern/glw/extern/glfw/src/wayland-client-protocol-code.h
+058f5e3509f8d6567c5d61a542c0c817 extern/glw/extern/glfw/src/wayland-client-protocol.h
+6fb2c2494bd72f614c02df8d6d3358a7 extern/glw/extern/glfw/src/xdg-activation-v1-client-protocol-code.h
+475920709e5a495496488e796a343ffa extern/glw/extern/glfw/src/xdg-activation-v1-client-protocol.h
+cbc93a113074db3b1a851902668fab7d extern/glw/extern/glfw/src/xdg-decoration-unstable-v1-client-protocol-code.h
+38c717e0439144219b6a6a256feaa710 extern/glw/extern/glfw/src/xdg-decoration-unstable-v1-client-protocol.h
+699ea67ec27252e0d5adadc8ac14c516 extern/glw/extern/glfw/src/xdg-shell-client-protocol-code.h
+01ea3244ee161556cf4925492ec7c0c8 extern/glw/extern/glfw/src/xdg-shell-client-protocol.h

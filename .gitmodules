@@ -1,0 +1,3 @@
+[submodule "glw"]
+	path = extern/glw
+	url = https://github.com/bogdanmaciuca/glw

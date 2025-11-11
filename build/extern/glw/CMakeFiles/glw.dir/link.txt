@@ -1,0 +1,2 @@
+/usr/bin/ar qc libglw.a CMakeFiles/glw.dir/src/debug.cpp.o CMakeFiles/glw.dir/src/glw.cpp.o CMakeFiles/glw.dir/src/input.cpp.o CMakeFiles/glw.dir/src/math.cpp.o CMakeFiles/glw.dir/src/shader.cpp.o CMakeFiles/glw.dir/src/ssbo.cpp.o CMakeFiles/glw.dir/src/texture.cpp.o CMakeFiles/glw.dir/src/vao.cpp.o CMakeFiles/glw.dir/extern/glad/glad.c.o CMakeFiles/glw.dir/extern/stb/stb_image.c.o
+/usr/bin/ranlib libglw.a
