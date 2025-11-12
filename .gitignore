@@ -1,4 +1,5 @@
 build/
 .cache/
-
+push_glw.sh
+push_voxels.sh
 
